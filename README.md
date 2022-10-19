@@ -1,0 +1,1 @@
+# SUBDOMAIN TAKEOVER POC by cursor_
